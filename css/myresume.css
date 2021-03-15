@@ -8,6 +8,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 (
    font-family: 'Shippori Mincho B1', serif;
    font-size: 1.2rem;
    font-weight: normal;
+   text-transform:capitalize;
  }
 
 h1, h2, h3, h4, h5, h6, .subheading{
