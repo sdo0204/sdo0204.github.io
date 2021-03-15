@@ -1,14 +1,10 @@
-
-
-
-
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 (
-    font-family: 'notn sans tc' ,sans-serif:
+    font-family: 'Shippori Mincho B1', serif;
 	
 )
 
 .subheading{
-   font-family: 'noto sans tc', sans-serif;
+   font-family: 'Shippori Mincho B1', serif;
    font-size: 1.2rem;
    font-weight: normal;
  }
@@ -37,4 +33,3 @@ p.lead {
    color: #784b24;
 }   
 
-	
