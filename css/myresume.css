@@ -1,13 +1,11 @@
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 (
-    font-family: 'Merriweather', serif;
-    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Playfair Display', serif;
 	text-transform:capitalize;
 	
 )
 
 .subheading{
-   font-family: 'Merriweather', serif;
-   font-family: 'Noto Sans TC', sans-serif;
+   font-family: 'Playfair Display', serif;
    font-size: 1.2rem;
    font-weight: normal;
    text-transform:capitalize;
@@ -32,7 +30,7 @@ p.lead {
 
 .text-primary {
    color: #784b24!important;
-   font-family: 'Merriweather', serif;
+   font-family: 'Playfair Display', serif;
 }
  a {
    color: #784b24;
