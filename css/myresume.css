@@ -31,7 +31,6 @@ p.lead {
 .text-primary {
    color: #784b24!important;
    font-family: 'Playfair Display', serif;
-   text-transform:capitalize;
 }
  a {
    color: #784b24;
